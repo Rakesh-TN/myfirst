@@ -18,6 +18,10 @@ namespace myfirst
              * \r - Carriage return
              * \t - Horizontal tab
              * \v - Vertical tab
+             * \' - Single Quotation Mark 
+             * \" - Double Quotation Mark
+             * \\ - Backslash
+             * \? - Literal Question Mark
              */
         }
     }
